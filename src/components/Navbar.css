@@ -1,0 +1,19 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.menu-text h2{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+@media screen and (min-width: 576px) {
+    .nav-container {
+      padding-top: 24px;
+    }
+    .nav-links{
+        top:76px !important;
+    }
+  }
+
